@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react'
-import { motion, Variants } from 'framer-motion'
+import React from 'react'
+import { motion } from 'framer-motion'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import {
   Chart as ChartJS,
