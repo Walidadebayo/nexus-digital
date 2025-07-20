@@ -14,12 +14,12 @@ A modern intranet portal built with React, TypeScript, Tailwind CSS, and Vite. T
 - **Responsive Design**: Works on desktop and mobile.
 - **Dark/Light Theme**: Toggle between themes.
 
-
 ## 🚀 Live Demo
 
 🌐 [View the Project](https://nexus-digital-henna.vercel.app)
 
 ## Screenshots
+
 ![Screenshot 1](public/screenshot.png)
 ![Screenshot 2](public/screenshot2.png)
 ![Screenshot 3](public/screenshot3.png)
@@ -37,6 +37,7 @@ A modern intranet portal built with React, TypeScript, Tailwind CSS, and Vite. T
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [GSAP](https://gsap.com/)
+- [React Bits](https://reactbits.dev/)
 - [Chart.js](https://www.chartjs.org/)
 - [Lucide Icons](https://lucide.dev/)
 
@@ -101,6 +102,14 @@ public/
   favicon.ico
 ```
 
+## 📦 Downloadable Version
+
+You can download the full project as a ZIP and run it locally:
+
+1. Unzip `nexus-digital-main.zip` [Download here](https://github.com/Walidadebayo/nexus-digital/archive/refs/heads/main.zip)
+2. Open in your code editor
+3. Run the steps under **Getting Started**
+
 ## Customization
 
 - Update company info, team members, events, and resources in the respective component files.
@@ -108,7 +117,9 @@ public/
 
 ## License
 
-This project is for internal use at Nexus Digital.
+> ✨ This project was built for the [DEV Frontend Challenge: Office Edition](https://dev.to/challenges/frontend/axero) sponsored by Axero.
+
+> MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
