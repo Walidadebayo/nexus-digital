@@ -12,6 +12,8 @@ import {
   FolderOpen,
   Calendar,
   LucideIcon,
+  Contact,
+  CircleFadingPlus,
 } from "lucide-react";
 import { useTheme } from "next-themes";
 
@@ -31,8 +33,8 @@ const Header = () => {
     { name: "Teams", icon: Users, href: "#teams" },
     { name: "Resources", icon: FolderOpen, href: "#resources" },
     { name: "Announcements", icon: Megaphone, href: "#announcements" },
-    { name: "Snapshot", icon: Home, href: "#snapshot" },
-    { name: "Contact", icon: Home, href: "#contact" },
+    { name: "Snapshot", icon: CircleFadingPlus, href: "#snapshot" },
+    { name: "Contact", icon: Contact, href: "#contact" },
   ];
 
   const toggleMobileMenu = () => {
